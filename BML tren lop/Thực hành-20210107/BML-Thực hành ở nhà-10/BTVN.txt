@@ -1,0 +1,1 @@
+Sử dụng các thuật toán phân cụm không giám sát để phân tách biển số xe trong thư mục đính kèm
